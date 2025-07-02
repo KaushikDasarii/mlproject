@@ -8,5 +8,5 @@ xgboost
 streamlit
 Flask
 gunicorn
-
+dill
 #-e .
