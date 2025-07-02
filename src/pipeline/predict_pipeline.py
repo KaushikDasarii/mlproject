@@ -5,7 +5,7 @@ from src.exception import CustomException
 from src.utils import load_object
 
 from src.pipeline.predict_pipeline import CustomData, PredictPipeline
-
+sys.path.append(os.path.join(os.path.dirname(__file__), 'src'))
 class PredictPipeline:
     def __init__(self):
         pass
