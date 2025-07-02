@@ -7,6 +7,6 @@ catboost
 xgboost
 streamlit
 Flask
-dill>=0.3.6
+gunicorn
 
 #-e .
