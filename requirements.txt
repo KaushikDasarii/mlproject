@@ -6,7 +6,7 @@ scikit-learn
 catboost
 xgboost
 streamlit
-Flask
+flask
 gunicorn
 dill
 #-e .
